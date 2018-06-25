@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\02-Practice Floating Point Numbers\02-Practice Floating Point Numbers.csproj" />
+    <ProjectReference Include="..\03-Practice Characters and Strings\03-Practice Characters and Strings.csproj" />
+    <ProjectReference Include="..\06-Strings and Objects\06-Strings and Objects.csproj" />
+    <ProjectReference Include="..\07-Exchange Variable Values\07-Exchange Variable Values.csproj" />
+    <ProjectReference Include="..\08-Employee Data\08-Employee Data.csproj" />
+    <ProjectReference Include="..\09-Reversed chars\09-Reversed chars.csproj" />
+    <ProjectReference Include="..\Data types and Variables\01-Practice Integer Numbers.csproj" />
+  </ItemGroup>
+
+</Project>
